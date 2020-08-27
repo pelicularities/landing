@@ -1,0 +1,18 @@
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  width: 200px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.card h3 {
+  font-size: 16px;
+}
+.card .thumbnail {
+  height: 100px;
+}
